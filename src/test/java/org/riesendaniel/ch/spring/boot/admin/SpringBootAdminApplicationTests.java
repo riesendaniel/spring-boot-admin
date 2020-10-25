@@ -1,10 +1,10 @@
-package ch.std.springadmin.springadmin;
+package org.riesendaniel.ch.spring.boot.admin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringadminApplicationTests {
+class SpringBootAdminApplicationTests {
 
     @Test
     void contextLoads() {
